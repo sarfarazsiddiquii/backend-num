@@ -1,3 +1,0 @@
-*.pyc
-venvs/
-.gitignore
